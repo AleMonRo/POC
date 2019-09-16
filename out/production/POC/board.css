@@ -1,5 +1,9 @@
 .label{
-    -fx-background-color: crimson;
-    -fx-font-size: 20px;
+    -fx-background-color: bisque;
+    /*-fx-font-size: 20px;*/
     -fx-font-family: "Adobe Devanagari";
+    -fx-text-alignment: center;
+}
+.root {
+    -fx-background-color: cornsilk;
 }
